@@ -187,6 +187,10 @@
   </picture>
 </div>
 
+<a href="https://github.com/huseyindol/vuln-guardian"><img src="../assets/badge-vulnguardian.svg" alt="VulnGuardian"></a>  
+_Autonomous multi-language (npm, Maven, Pub, PyPI, Go, Cargo) dependency vulnerability scanner (OSV.dev / GHSA / CVE), zero-PR-spam single-batch safe-version patcher, pre-deploy breaking-change & live smoke verifier, and Next.js 16 Command Center._  
+![GitHub Stats for vuln-guardian](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=vuln-guardian&username=huseyindol&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
 <a href="https://github.com/matt1398/claude-devtools"><img src="../assets/badge-claude-devtools.svg" alt="claude-devtools"></a>  
 _A well-designed desktop app that provides detailed observability into your Claude Code sessions by analyzing the session logs. Provides turn-based context data across numerous categories, compaction visualization, subagent execution trees, and custom notification triggers. Easy to install, and nice visual design._  
 ![GitHub Stats for claude-devtools](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-devtools&username=matt1398&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
@@ -194,14 +198,6 @@ _A well-designed desktop app that provides detailed observability into your Clau
 <a href="https://github.com/agent-sh/agnix"><img src="../assets/badge-agnix.svg" alt="agnix"></a>  
 _A comprehensive linter for Claude Code agent files. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP, and more. Plugin for all major IDEs included, with auto-fixes._  
 ![GitHub Stats for agnix](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=agnix&username=agent-sh&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
-
-<a href="https://github.com/zarazhangrui/codebase-to-course"><img src="../assets/badge-codebase-to-course.svg" alt="Codebase to Course"></a>  
-_A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders._  
-![GitHub Stats for codebase-to-course](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=codebase-to-course&username=zarazhangrui&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
-
-<a href="https://github.com/ruvnet/ruflo"><img src="../assets/badge-ruflo.svg" alt="Ruflo"></a>  
-_An orchestration platform for deploying and coordinating multi-agent swarms. If I tried to go into detail it would probably crash my browser. An impressive feat of engineering that tries to cover everything and actually does a good job. Self-learning, autonomous multi-agent swarms, vector-based multi-layered memory, systematic planning, security guardrails, and so on. It's a growing project, and YMMV, but even just studying the patterns is immensely valuable, and it's clearly well-engineered._  
-![GitHub Stats for ruflo](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=ruflo&username=ruvnet&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 
 <br>
@@ -669,6 +665,13 @@ _A very professional collection of over a dozen security-focused skills for code
 <a href="https://github.com/glittercowboy/taches-cc-resources"><img src="../assets/badge-t-ches-claude-code-resources.svg" alt="TÂCHES Claude Code Resources"></a>  
 _A well-balanced, "down-to-Earth" set of sub agents, skills, and commands,  that are well-organized, easy to read, and a healthy focus on "meta"-skills/agents, like "skill-auditor", hook creation, etc. - the kind of things you can adapt to your workflow, and not the other way around._  
 ![GitHub Stats for taches-cc-resources](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=taches-cc-resources&username=glittercowboy&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
+
+
+<a href="https://github.com/huseyindol/vuln-guardian"><img src="../assets/badge-vulnguardian.svg" alt="VulnGuardian"></a>  
+_Autonomous multi-language (npm, Maven, Pub, PyPI, Go, Cargo) dependency vulnerability scanner (OSV.dev / GHSA / CVE), zero-PR-spam single-batch safe-version patcher, pre-deploy breaking-change & live smoke verifier, and Next.js 16 Command Center._  
+![GitHub Stats for vuln-guardian](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=vuln-guardian&username=huseyindol&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 <div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
 

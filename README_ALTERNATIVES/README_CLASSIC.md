@@ -46,6 +46,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 ## Latest Additions ✨ [🔝](#awesome-claude-code)
 
 
+[`VulnGuardian`](https://github.com/huseyindol/vuln-guardian) &nbsp; by &nbsp; [Hüseyin Dol](https://github.com/huseyindol)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Autonomous multi-language (npm, Maven, Pub, PyPI, Go, Cargo) dependency vulnerability scanner (OSV.dev / GHSA / CVE), zero-PR-spam single-batch safe-version patcher, pre-deploy breaking-change & live smoke verifier, and Next.js 16 Command Center.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for vuln-guardian](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=vuln-guardian&username=huseyindol&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`claude-devtools`](https://github.com/matt1398/claude-devtools) &nbsp; by &nbsp; [matt1398](https://github.com/matt1398)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A well-designed desktop app that provides detailed observability into your Claude Code sessions by analyzing the session logs. Provides turn-based context data across numerous categories, compaction visualization, subagent execution trees, and custom notification triggers. Easy to install, and nice visual design.
 
@@ -64,28 +75,6 @@ A comprehensive linter for Claude Code agent files. Validate CLAUDE.md, AGENTS.m
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for agnix](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=agnix&username=agent-sh&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`Codebase to Course`](https://github.com/zarazhangrui/codebase-to-course) &nbsp; by &nbsp; [Zara Zhang](https://github.com/zarazhangrui)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;No License / Not Specified  
-A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for codebase-to-course](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=codebase-to-course&username=zarazhangrui&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`Ruflo`](https://github.com/ruvnet/ruflo) &nbsp; by &nbsp; [rUv](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-An orchestration platform for deploying and coordinating multi-agent swarms. If I tried to go into detail it would probably crash my browser. An impressive feat of engineering that tries to cover everything and actually does a good job. Self-learning, autonomous multi-agent swarms, vector-based multi-layered memory, systematic planning, security guardrails, and so on. It's a growing project, and YMMV, but even just studying the patterns is immensely valuable, and it's clearly well-engineered.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for ruflo](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=ruflo&username=ruvnet&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -368,6 +357,17 @@ A well-balanced, "down-to-Earth" set of sub agents, skills, and commands,  that 
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for taches-cc-resources](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=taches-cc-resources&username=glittercowboy&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`VulnGuardian`](https://github.com/huseyindol/vuln-guardian) &nbsp; by &nbsp; [Hüseyin Dol](https://github.com/huseyindol)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Autonomous multi-language (npm, Maven, Pub, PyPI, Go, Cargo) dependency vulnerability scanner (OSV.dev / GHSA / CVE), zero-PR-spam single-batch safe-version patcher, pre-deploy breaking-change & live smoke verifier, and Next.js 16 Command Center.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for vuln-guardian](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=vuln-guardian&username=huseyindol&all_stats=true&stats_only=true)
 
 </details>
 <br>

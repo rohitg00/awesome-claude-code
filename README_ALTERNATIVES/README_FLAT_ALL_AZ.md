@@ -1787,6 +1787,15 @@ A flat list view of all resources. Category: **All** | Sorted: alphabetically by
 <td colspan="4"><img src="https://img.shields.io/github/stars/mbailey/voicemode?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/mbailey/voicemode?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/mbailey/voicemode?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/mbailey/voicemode?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/mbailey/voicemode?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/mbailey/voicemode?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/mbailey/voicemode?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/mbailey/voicemode?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/mbailey/voicemode?style=flat-square" alt="license"></td>
 </tr>
 <tr>
+<td><a href="https://github.com/huseyindol/vuln-guardian"><b>VulnGuardian</b></a><br>by <a href="https://github.com/huseyindol">Hüseyin Dol</a></td>
+<td>Agent Skills</td>
+<td>General</td>
+<td>Autonomous multi-language (npm, Maven, Pub, PyPI, Go, Cargo) dependency vulnerability scanner (OSV.dev / GHSA / CVE), zero-PR-spam single-batch safe-version patcher, pre-deploy breaking-change & live smoke verifier, and Next.js 16 Command Center.</td>
+</tr>
+<tr>
+<td colspan="4"><img src="https://img.shields.io/github/stars/huseyindol/vuln-guardian?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/huseyindol/vuln-guardian?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/huseyindol/vuln-guardian?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/huseyindol/vuln-guardian?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/huseyindol/vuln-guardian?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/huseyindol/vuln-guardian?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/huseyindol/vuln-guardian?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/huseyindol/vuln-guardian?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/huseyindol/vuln-guardian?style=flat-square" alt="license"></td>
+</tr>
+<tr>
 <td><a href="https://github.com/alonw0/web-asset-generator"><b>Web Assets Generator Skill</b></a><br>by <a href="https://github.com/alonw0">Alon Wolenitz</a></td>
 <td>Agent Skills</td>
 <td>General</td>
@@ -1800,6 +1809,6 @@ A flat list view of all resources. Category: **All** | Sorted: alphabetically by
 
 ---
 
-**Total Resources:** 195
+**Total Resources:** 196
 
-**Last Generated:** 2026-03-30
+**Last Generated:** 2026-10-28
